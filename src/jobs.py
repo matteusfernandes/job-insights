@@ -3,10 +3,10 @@ import csv
 
 
 @lru_cache
-def read():
+def read(path):
     jobs = []
 
-    with open("src/jobs.csv") as file:
+    with open(path) as file:
         csv.DictReader(file)
 
         for index in file:
