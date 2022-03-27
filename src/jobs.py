@@ -7,9 +7,9 @@ def read(path):
     jobs = []
 
     with open(path) as file:
-        csv.DictReader(file)
+        jobs_file = csv.DictReader(file)
 
-        for index in file:
+        for index in jobs_file:
             jobs.append(index)
 
     return jobs
