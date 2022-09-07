@@ -1,4 +1,4 @@
-# Repositório do projeto de Jest Assíncrono e Mocking!
+# Repositório do projeto Job Insights!
 
 Bloco 33 - JavaScript Assíncrono e Promises
 
@@ -27,7 +27,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/index
 
 ---
 
-# Instruções
+## Instruções
 
 1. Clone o repositório
   * `git@github.com:matteusfernandes/job-insights.git`.
@@ -47,6 +47,5 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/index
 6. Acesse o site gerado pelo Flask
   * `http://localhost:5000`
 ---
-
-💻 **Desenvolvido por** [@matteusfernandes](https://github.com/matteusfernandes) • 2022 🔗 [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
----
+#### Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Job Insights](https://github.com/tryber/sd-013-c-project-job-insights/pull/3)
+#### 💻 **Desenvolvido por** [@matteusfernandes](https://github.com/matteusfernandes) • 2022 🔗 [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
